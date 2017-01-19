@@ -1,4 +1,4 @@
-# compatible_browser
+# CompatibleBrowser
 
 Collection browser compatibility bug
 
@@ -8,3 +8,6 @@ Collection browser compatibility bug
 *  IE
 *  微信小程序
 *  支付宝小程序
+
+## version
+1.0.1
